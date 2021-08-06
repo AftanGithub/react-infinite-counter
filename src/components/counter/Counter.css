@@ -1,0 +1,29 @@
+
+
+.counter-group{
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+
+}
+
+.counter{
+    background-color: white;
+    padding: 30px;
+    width: 200px;
+    height: 150px;
+    color: rgb(44, 7, 44);
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 15px 30px rgb(52, 30, 61);
+    
+    
+}
+
+.counter p {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+    
+}
+
