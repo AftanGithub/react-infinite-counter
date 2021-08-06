@@ -1,3 +1,19 @@
+# Description 
+It is an infinite counter that is built using React, React hooks such as useMemo,useReducer,etc. This project counts till infinite
+
+# Preview
+![counter](https://user-images.githubusercontent.com/75898512/128474740-1e61fba0-d7f6-4650-a8ef-96f8e5394397.PNG)
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
