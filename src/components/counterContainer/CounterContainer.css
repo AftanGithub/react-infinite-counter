@@ -1,0 +1,17 @@
+.heading{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 60px;
+    background: linear-gradient(to right, #f32170,
+    #ff6b08, #cf23cf, #eedd44);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
